@@ -1,2 +1,2 @@
 # Double-Ended-Queue
-Double-Ended-Queue Implementation is C++
+Double-Ended-Queue Implementation is C++ . A Queue is a first-in first-out (FIFO) abstract data type in Computing . Double Ended Queue allows us to access elements from both the two sides unlike normal Queue . In Double Ended Queue elements can be added from the Rear and the Front ie. EnQueue , elements can be deleted from both the Front and Rear ie. DeQueue and we can also display the elements present in the Queue.
